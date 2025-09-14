@@ -1,7 +1,7 @@
 # MeComfyuiEncrypt
 在comfyui中使用图片混淆
 # 使用方法
-`git clone https://github.com/Me-gumin/MeComfyuiEncrypt.git ./custom_nodes`  
+`git clone https://github.com/Me-gumin/MeComfyuiEncrypt.git ./custom_nodes/MeComfyuiEncrypt`  
 # 加密类型
 <br>Chaos Encrypt,ChaCha20 Encrypt,AES-CTR Encrypt,节点均存放在Crypto目录下</br>
 # 加密节点效果
