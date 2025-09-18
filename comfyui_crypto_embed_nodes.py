@@ -130,7 +130,6 @@ class PNGDecryptNode:
     @classmethod
     def INPUT_TYPES(cls):
         output_dir = folder_paths.get_output_directory()
-        input_dir = folder_paths.get_input_directory()
         files = [f for f in os.listdir(output_dir) if os.path.isfile(os.path.join(output_dir, f))]
         files = folder_paths.filter_files_content_types(files, ["image"])
         return {
