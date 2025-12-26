@@ -29,7 +29,7 @@ Documentation = "https://github.com/Me-gumin/MeComfyuiEncrypt/wiki"
 "Bug Tracker" = "https://github.com/Me-gumin/MeComfyuiEncrypt/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "me-gumin"
 DisplayName = "MeComfyuiEncrypt"
 Icon = ""
 includes = [] 
